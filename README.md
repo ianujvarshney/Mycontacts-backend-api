@@ -49,4 +49,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 If you have any questions or suggestions, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
-
